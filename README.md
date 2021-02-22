@@ -10,6 +10,7 @@ This project contains resources files in these two directories:
 2. Python-Pygame
 ### How To Start Game ###
 Once this project is installed on your machine, go the ```project/main.py``` and type the line below on the terminal to lunch the game
+
        python main.py 
 You can control your hero plane with your mouse and press the space bar to release ultimate skill
 ### Author ###
