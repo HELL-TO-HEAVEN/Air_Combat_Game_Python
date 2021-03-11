@@ -1,4 +1,4 @@
-### Air Combat Game By Python ###
+### Air Combat Game in Python ###
 A shoot game written in Python
  
 ![Image](images/example.png)
